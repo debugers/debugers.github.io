@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on 调试你妹</title>
-    <link>https://endlessdebug.github.io/tags/development/index.xml</link>
+    <link>http://debugers.github.io/tags/development/index.xml</link>
     <description>Recent content in Development on 调试你妹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://endlessdebug.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://debugers.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>sencond</title>
-      <link>https://endlessdebug.github.io/post/sencond/</link>
+      <link>http://debugers.github.io/post/sencond/</link>
       <pubDate>Wed, 29 Mar 2017 19:50:33 +0800</pubDate>
       
-      <guid>https://endlessdebug.github.io/post/sencond/</guid>
+      <guid>http://debugers.github.io/post/sencond/</guid>
       <description></description>
     </item>
     

@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://endlessdebug.github.io/post/sencond/</loc>
+    <loc>http://debugers.github.io/post/sencond/</loc>
     <lastmod>2017-03-29T19:50:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://endlessdebug.github.io/categories/</loc>
+    <loc>http://debugers.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://endlessdebug.github.io/categories/development/</loc>
-    <lastmod>2017-03-29T19:50:33+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://endlessdebug.github.io/tags/development/</loc>
+    <loc>http://debugers.github.io/tags/development/</loc>
     <lastmod>2017-03-29T19:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://endlessdebug.github.io/categories/golang/</loc>
+    <loc>http://debugers.github.io/categories/development/</loc>
     <lastmod>2017-03-29T19:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://endlessdebug.github.io/tags/golang/</loc>
+    <loc>http://debugers.github.io/tags/golang/</loc>
     <lastmod>2017-03-29T19:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://endlessdebug.github.io/post/</loc>
+    <loc>http://debugers.github.io/categories/golang/</loc>
     <lastmod>2017-03-29T19:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://endlessdebug.github.io/tags/</loc>
+    <loc>http://debugers.github.io/post/</loc>
+    <lastmod>2017-03-29T19:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://endlessdebug.github.io/</loc>
+    <loc>http://debugers.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://debugers.github.io/</loc>
     <lastmod>2017-03-29T19:50:33+08:00</lastmod>
     <priority>0</priority>
   </url>

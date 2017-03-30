@@ -4,4 +4,11 @@ title = "first"
 draft = true
 
 +++
-
+# My first blog
+1. Aaa
+2. Bbb
+3. Ccc
++++
+<script src="{{ .Site.BaseURL }}js/highlight.js"></script>
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/monokai.css">
+<script>hljs.initHighlightingOnLoad();</script>
