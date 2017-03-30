@@ -9,6 +9,6 @@ draft = true
 2. Bbb
 3. Ccc
 +++
-<script src="{{ .Site.BaseURL }}js/highlight.js"></script>
+script src="{{ .Site.BaseURL }}js/highlight.js"></script>
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/monokai.css">
 <script>hljs.initHighlightingOnLoad();</script>
