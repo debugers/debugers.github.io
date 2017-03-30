@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on 调试a你妹</title>
+    <title>Golang on 调试你妹</title>
     <link>http://debugers.github.io/categories/golang/index.xml</link>
-    <description>Recent content in Golang on 调试a你妹</description>
+    <description>Recent content in Golang on 调试你妹</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="http://debugers.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>123</title>
+      <link>http://debugers.github.io/post/123/</link>
+      <pubDate>Thu, 30 Mar 2017 16:51:54 +0800</pubDate>
+      
+      <guid>http://debugers.github.io/post/123/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>sencond</title>
