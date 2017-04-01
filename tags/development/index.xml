@@ -43,9 +43,13 @@
       <pubDate>Wed, 29 Mar 2017 19:50:33 +0800</pubDate>
       
       <guid>https://debugers.github.io/post/sencond/</guid>
-      <description>&lt;p&gt;欢迎到访&lt;br /&gt;
-很高兴见到您
-祝您，早上好，中午好，下午好，晚安&lt;/p&gt;
+      <description>
+
+&lt;h1 id=&#34;欢迎到访&#34;&gt;欢迎到访&lt;/h1&gt;
+
+&lt;h2 id=&#34;很高兴见到您&#34;&gt;很高兴见到您&lt;/h2&gt;
+
+&lt;p&gt;祝您，早上好，中午好，下午好，晚安&lt;/p&gt;
 
 &lt;p&gt;欢迎到访
 我是C++码农
@@ -55,10 +59,16 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;code&gt;&amp;lt;script src=&amp;quot;{{ .Site.BaseURL }}js/highlight.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;pre&gt;&lt;code&gt;git config --global user.name &amp;quot;你的注册用户名&amp;quot;
+git config --global user.email &amp;quot;你的邮箱&amp;quot;
+git config --global color.ui auto
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;script src=&amp;quot;{{ .Site.BaseURL }}js/highlight.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
 &amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;{{ .Site.BaseURL }}css/monokai.css&amp;quot;&amp;gt;
 &amp;lt;script&amp;gt;hljs.initHighlightingOnLoad();&amp;lt;/script&amp;gt;
-&amp;lt;/head&amp;gt;&lt;/code&gt;&lt;/p&gt;
+&amp;lt;/head&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
